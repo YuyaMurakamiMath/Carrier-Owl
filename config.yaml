@@ -1,21 +1,11 @@
 # arxivの学問領域の指定
-subject: 'cat:math.* OR cat:physics.*'
+subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        modular function: 1
-        modular form: 1
-        cusp form: 1
-        automorphic form: 1
-        Maass form: 1
-        theta function: 1
-        eta function: 1
-        Eisenstein series: 1
-        modular transformation: 1
-        modularity: 1
-        modular curve: 1
-        Hecke operator: 1
-        zeta function: 1
+        kaggle: 3
+        resnet: 3
+        anomaly detection: 1
 
 # 通知の閾値
 score_threshold: 0
